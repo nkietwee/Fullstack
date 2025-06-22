@@ -2,4 +2,9 @@ h1 {
   /* text-decoration: underline; */
   text-align: center;
   color: green;
+  background-color: black;
+}
+
+h1.uppercase {
+  color: blue;
 }

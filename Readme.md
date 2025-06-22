@@ -3,5 +3,5 @@
 ---
 <h3> Week1 </h3>
 
-- **[Documentation](Week1/Week1.md)**: Explanation week1
-- **[Code](Week1/index.html)**: Example of code
+- **[Documentation](Week1/doc/Week1.md)**: Explanation week1
+- **[Code](Week1/code/index.html)**: Example of code
