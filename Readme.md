@@ -1,4 +1,4 @@
-<h1> Intro to Fullstack </h1>
+<h1> Fullstack Zero to Namo </h1>
 
 ---
 <h3> Week1 </h3>
